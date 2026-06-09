@@ -6,6 +6,10 @@
     <img src="https://img.shields.io/badge/Email-irfanjavedofficial@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/irfan-javed-6795281b5">
+    <img src="https://img.shields.io/badge/LinkedIn-Irfan_Javed-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://github.com/irfanf16">
     <img src="https://img.shields.io/badge/GitHub-irfanf16-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
