@@ -95,22 +95,50 @@
 
 ---
 
+### Featured Projects
+
+<p align="center">
+  <a href="https://github.com/irfanf16/custimoo">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=custimoo&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+  <a href="https://github.com/irfanf16/development_custimoo_builder_v2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=development_custimoo_builder_v2&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/irfanf16/stream-it">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=stream-it&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+  <a href="https://github.com/irfanf16/toolifyhub-website">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=toolifyhub-website&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/irfanf16/clipfetch">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=clipfetch&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+  <a href="https://github.com/irfanf16/sv-user-panel">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=sv-user-panel&theme=tokyonight&hide_border=true&show_owner=false" />
+  </a>
+</p>
+
+---
+
 ### Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanf16&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 ---
 
-### Featured Projects
+### Contribution Snake
 
-| Project | Tech | Description |
-|---|---|---|
-| [custimoo](https://github.com/irfanf16/custimoo) | Laravel 12, Vue 3, Stripe, Shopify | Product customization SaaS &mdash; 95+ models, multi-tenant, Shopify/WooCommerce/BigCommerce |
-| [development_custimoo_builder_v2](https://github.com/irfanf16/development_custimoo_builder_v2) | Vue 3, Pinia, Tailwind v4, Vitest | Interactive 2D/3D product designer &mdash; 9-step workflow, AI logo gen, Paraglide i18n |
-| [stream-it](https://github.com/irfanf16/stream-it) | Laravel 9, Inertia, Agora, Ably | Real-time streaming platform &mdash; live video, token economy, multi-gateway payments |
-| [clipfetch](https://github.com/irfanf16/clipfetch) | Next.js 15, Supabase, Upstash | Multi-platform video downloader &mdash; 16 tool pages, rate limiting, admin panel |
-| [toolifyhub-website](https://github.com/irfanf16/toolifyhub-website) | Next.js 15, MongoDB, Groq AI | 39-tool SaaS &mdash; Llama 3.3 AI, Stripe + PayPal, analytics dashboard |
-| [sv-user-panel](https://github.com/irfanf16/sv-user-panel) | Laravel 10, Vue, Passport OAuth2 | Enterprise workforce SaaS &mdash; per-company DB switching, 200+ migrations, RBAC |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake.svg" />
+</picture>
 
 ---
 
