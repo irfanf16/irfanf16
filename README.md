@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1f35&height=120&section=header&text=Irfan%20Javed&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=65&desc=Senior%20Full%20Stack%20Engineer&descAlign=50&descAlignY=85&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+%7C+Vue+3+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;7%2B+Years+Building+Production+SaaS+Platforms;Multi-tenant+Architecture+%7C+REST+API+%7C+Real-time+Systems;Open+to+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Laravel+%7C+Vue+3+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;5%2B+Years+Building+Production+SaaS+Platforms;Multi-tenant+Architecture+%7C+REST+API+%7C+Real-time+Systems;Open+to+Remote+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About Me
 
-Full Stack Engineer with **7+ years** of experience designing, building, and shipping production SaaS platforms from scratch. I specialize in:
+Full Stack Engineer with **5+ years** of experience designing, building, and shipping production SaaS platforms from scratch. I specialize in:
 
 - **Multi-tenant B2B SaaS** — per-tenant database isolation, role-based access control, subscription billing
 - **eCommerce integrations** — Shopify, WooCommerce, BigCommerce cart sync; multi-vendor order management
