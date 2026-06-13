@@ -1,145 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:58a6ff&height=130&section=header&text=Irfan%20Javed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer&descAlignY=62&descSize=18" width="100%" />
+<h1 align="center">Irfan Javed</h1>
+<h3 align="center">Senior Full Stack Engineer &nbsp;|&nbsp; Laravel &middot; Vue 3 &middot; React &middot; Angular &middot; Node.js</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Laravel+%7C+Vue+3+%7C+React+%7C+Next.js+%7C+Node.js;5%2B+Years+Building+Production+SaaS+%26+APIs;Stripe+%7C+Shopify+%7C+AWS+S3+%7C+Agora+%7C+OpenAI;Clean+Architecture+%7C+Queue+Workers+%7C+Real-time;Open+to+Remote+Opportunities" />
+  <a href="https://www.linkedin.com/in/irfan-javed-6795281b5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:irfanjavedofficial@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%2F%20On--site-22c55e?style=for-the-badge" />
 </p>
 
+---
+
+## About Me
+
+I am a Senior Full Stack Engineer based in **Lahore, Pakistan** with **7+ years of experience** building and shipping production-grade SaaS platforms.
+
+My focus areas are multi-tenant B2B SaaS, REST API design, and complex front-end applications. I have architected and delivered systems handling **real-time streaming**, **e-commerce integrations (Shopify, WooCommerce, BigCommerce)**, **workforce management**, and **creator monetization** — from schema design through deployment.
+
+I write clean, maintainable code and take end-to-end ownership of features: database design, API, frontend, CI/CD.
+
+---
+
+## Technical Expertise
+
+| Layer | Technologies |
+|---|---|
+| **Backend** | Laravel (9/10/12), PHP 8.x, Node.js, Express, REST API, OAuth2, JWT, Sanctum, Passport |
+| **Frontend** | Vue 3 (Pinia, TanStack Query), React 18 (Inertia.js, Redux), Angular 18, TypeScript 5 |
+| **Databases** | MySQL, PostgreSQL, MongoDB, Redis, multi-tenant per-DB isolation |
+| **Cloud & DevOps** | AWS (S3, Rekognition, SES), Docker, Kubernetes, Bitbucket Pipelines, Vercel |
+| **Payments** | Stripe (PaymentIntent, webhooks, subscriptions, credit notes), PayPal, CCBill |
+| **Real-time** | Pusher, Ably, Laravel Echo, WebSockets, RTMP → HLS streaming |
+| **Tools & Integrations** | Fabric.js, Three.js, CKEditor 5, Shopify API, Google Calendar API, Firebase, Twilio |
+
+---
+
+## Production SaaS Projects
+
+### [Custimoo](https://custimoo.com) &mdash; Product Customization Platform
+A multi-tenant SaaS that lets merchants sell fully customized apparel and sportswear online.
+
+- **Backend:** Laravel 12, 95+ Eloquent models, dual Stripe accounts (DKK + CAD), Shopify/WooCommerce/BigCommerce cart sync
+- **Admin:** Vue 3 + TypeScript, TanStack Query v5, Fabric.js + Three.js production file generator, 18+ modals, 130+ TS interfaces
+- **Builder:** Vue 3 Web Component (`<v-customizer>`), 9-step 2D/3D customizer, AI logo generation, Paraglide i18n (11 languages)
+
+### [StaffViz](https://www.staffviz.com) &mdash; Workforce Management SaaS
+A B2B platform for tracking employee time, activity, productivity, and HR workflows.
+
+- **API:** Laravel 10, nwidart/laravel-modules (9 modules), Spatie RBAC, Stripe subscriptions, per-tenant DB provisioning
+- **User Panel:** Laravel 10 + Vue, dynamic DB switching per company at runtime, Zapier custom OAuth2, 200+ routes, 200+ migrations
+- **Admin Panel:** Angular 18 SPA, AES-256-CBC end-to-end payload encryption, Bitbucket CI/CD → Docker → Kubernetes
+
+### [Stream-It](https://github.com/irfanf16/stream-it) &mdash; Live Streaming & Creator Monetization
+A live streaming platform with a virtual token economy for creator monetization.
+
+- Laravel 9 + Inertia.js + React 18, RTMP → HLS broadcast, Pusher real-time events
+- Token economy with 75/25 creator split; 4 payment gateways: Stripe, PayPal, CCBill, Bank Transfer
+- Private 1-on-1 paid streaming sessions, 25+ database tables
+
+---
+
+## Other Notable Projects
+
+| Repository | Description |
+|---|---|
+| [clipfetch](https://github.com/irfanf16/clipfetch) | Next.js 15 multi-platform video downloader — Supabase, Upstash Redis, Cloudflare R2, SSRF-protected proxy |
+| [toolifyhub-website](https://github.com/irfanf16/toolifyhub-website) | 39-tool AI SaaS — Next.js 15, Groq (Llama 3.3 70B), MongoDB, Stripe + PayPal |
+| [BrightChef](https://github.com/irfanf16/BrightChef) | AI recipe platform — Laravel 9, OpenAI API, Laravel Horizon, laravel-actions |
+| [2again-admin](https://github.com/irfanf16/2again-admin) | Dating app admin — Firebase, AWS Rekognition, BotMan + Dialogflow chatbot, coin economy |
+| [StorakApi-s](https://github.com/irfanf16/StorakApi-s) | Multi-vendor eCommerce API — Laravel 8, JWT, Pusher, Laravel Scout, Arabic/English |
+| [cloudTeleService](https://github.com/irfanf16/cloudTeleService) | Telehealth platform — Laravel, full Google Calendar API sync, OAuth2 |
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <a href="mailto:irfanjavedofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-irfanjavedofficial-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=irfanf16&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github" height="160" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/irfan-javed-6795281b5">
-    <img src="https://img.shields.io/badge/LinkedIn-Irfan_Javed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=irfanf16&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanf16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
 </p>
 
 ---
 
-### About Me
-
-- **5+ years** building scalable SaaS, REST APIs, and real-time platforms from scratch to production
-- Core stack: **Laravel** (backend) &nbsp;|&nbsp; **Vue 3 + Pinia** (frontend) &nbsp;|&nbsp; **React / Next.js** (fullstack)
-- Production: **Custimoo** &mdash; apparel SaaS, Denmark &nbsp;&middot;&nbsp; **StaffViz** &mdash; workforce monitoring, UK
-- Integrations shipped: Stripe (multi-account) &middot; Shopify &middot; WooCommerce &middot; AWS S3 &middot; Agora RTC &middot; Google Calendar API &middot; OpenAI
-- Currently expanding into **AI / LLM** workflows with Python
-- BS Software Engineering &mdash; Superior University, Lahore
-
----
-
-### Tech Stack
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![Queue Workers](https://img.shields.io/badge/Horizon_Queue-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=vue.js&logoColor=black)
-![Fabric.js](https://img.shields.io/badge/Fabric.js-222222?style=flat-square)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-
-**Database & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazon-s3&logoColor=white)
-
-**Integrations & Tools**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irfanf16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanf16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake-dark.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=irfanf16&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://komarev.com/ghpvc/?username=irfanf16&color=0d1117&style=flat-square&label=Profile+Views" />
 </p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanf16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
-### Featured Projects
-
-<p align="center">
-  <a href="https://github.com/irfanf16/custimoo">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=custimoo&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/irfanf16/development_custimoo_builder_v2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=development_custimoo_builder_v2&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/irfanf16/stream-it">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=stream-it&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/irfanf16/toolifyhub-website">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=toolifyhub-website&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/irfanf16/clipfetch">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=clipfetch&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-  <a href="https://github.com/irfanf16/sv-user-panel">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=irfanf16&repo=sv-user-panel&theme=tokyonight&hide_border=true&show_owner=false" />
-  </a>
-</p>
-
----
-
-### Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanf16&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
----
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/irfanf16/irfanf16/output/github-snake.svg" />
-</picture>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:1a1b27&height=80&section=footer" width="100%" />
