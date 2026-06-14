@@ -60,7 +60,7 @@ Senior Full Stack Engineer with **5+ years** of experience designing, building, 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanf16&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irfanf16&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
 </p>
 
 ---
