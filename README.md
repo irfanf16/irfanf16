@@ -38,6 +38,33 @@ Senior Full Stack Engineer with **5+ years** of experience designing, building, 
 
 ---
 
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| **Full Stack Developer** | Techscale — Lahore, Pakistan | May 2025 – Present |
+| **Full Stack Developer** | CrecenTech Systems — Lahore, Pakistan | Oct 2022 – May 2025 |
+| **Senior Laravel Developer** | Storak Digital — Remote | May 2022 – Oct 2022 |
+| **Junior Laravel Developer** | Software Alliance — Lahore, Pakistan | Aug 2021 – Jun 2022 |
+| **Web Developer** | Sigi Technologies — Part-time | Feb 2021 – Jun 2022 |
+| **Web Developer** | Falconic Tech — Freelance | Sep 2020 – Feb 2021 |
+
+**BSc Software Engineering** — Superior University, Lahore · 2016 – 2020
+
+---
+
+## Selected Impact
+
+| Number | What it refers to |
+|---|---|
+| **~2,000 users · 10+ companies** | Scale of the workforce analytics platform I built the backend for |
+| **~2 min → under 20 s** | Heaviest analytics report, after restructuring its queries and indexes |
+| **50+ sellers · 5,000+ products** | Multi-vendor marketplace I stabilised and hardened |
+| **40+ languages** | Localisation I shipped for a dating app's worldwide launch |
+| **95+ models · 200+ migrations** | Size of the two multi-tenant SaaS codebases I work in daily |
+
+---
+
 ## Tech Stack
 
 **Backend**
@@ -53,14 +80,6 @@ Senior Full Stack Engineer with **5+ years** of experience designing, building, 
 **Databases, Cloud & DevOps**
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,docker,kubernetes,linux,git,github" />
-</p>
-
----
-
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irfanf16&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" />
 </p>
 
 ---
@@ -166,8 +185,6 @@ Next.js 15 SaaS — raw HTTP calls to Supabase PostgREST and Upstash Redis, zero
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irfanf16&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="170" />
-  &nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=irfanf16&theme=github-dark-blue&hide_border=true" height="170" />
 </p>
 
