@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:112547&height=210&section=header&text=Irfan%20Javed&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=52&desc=Senior%20Full%20Stack%20Engineer%20%7C%20Laravel%20%7C%20Vue%203%20%7C%20React%20%7C%20Next.js%20%7C%20TypeScript&descColor=8ab4f8&descAlign=50&descAlignY=70&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:112547&height=210&section=header&text=Irfan%20Javed&fontColor=ffffff&fontSize=54&fontAlign=50&fontAlignY=52&desc=Software%20Engineer%20%7C%20PHP%20Laravel%20%7C%20Vue%20%7C%20Next.js%20%7C%20NestJS%20%7C%20AI%20Integration&descColor=8ab4f8&descAlign=50&descAlignY=70&descSize=16" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=5%2B+Years+Building+Production+SaaS+Platforms;Laravel+%7C+Vue+3+%7C+React+%7C+Next.js+%7C+TypeScript+%7C+Node.js;Multi-tenant+Architecture+%7C+REST+APIs+%7C+Real-time+Systems;Stripe+%7C+Shopify+%7C+WooCommerce+%7C+BigCommerce+%7C+Docker;Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=5%2B+Years+Building+Production+SaaS+Platforms;PHP+Laravel+%7C+Vue+3+%7C+Next.js+%7C+NestJS+%7C+TypeScript;Multi-tenant+SaaS+%7C+Microservices+%7C+REST+APIs+%7C+AI+Integration;Stripe+%7C+Shopify+%7C+WooCommerce+%7C+BigCommerce+%7C+Docker;Open+to+Remote+Opportunities+Worldwide" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,11 +26,12 @@
 
 ## About Me
 
-Senior Full Stack Engineer with **5+ years** of experience designing, building, and shipping production SaaS platforms from scratch. I take **end-to-end ownership** — database schema, REST APIs, frontend, CI/CD, and production deployment.
+Software Engineer with **5+ years** building production SaaS platforms end to end in **PHP Laravel**, **Vue** and the TypeScript ecosystem (**Next.js**, **NestJS**). Currently building a Laravel 12 multi-tenant customisation SaaS with a product team, and a **NestJS + Next.js 15 B2B platform solo as a freelance project**. I take end-to-end ownership — database schema, REST APIs, frontend, CI/CD, and production deployment.
 
 | Specialization | Stack & Scope |
 |---|---|
 | **Multi-tenant B2B SaaS** | Per-tenant DB isolation · Spatie RBAC · Stripe subscriptions · nwidart modules |
+| **Microservices (NestJS)** | API gateway + TCP services · Prisma/PostgreSQL · JWT + RBAC · Stripe webhooks |
 | **eCommerce & Marketplaces** | Shopify · WooCommerce · BigCommerce · Multi-vendor order splitting · Vendor KYC |
 | **Real-time Systems** | RTMP to HLS live streaming · WebSockets · Pusher · Laravel Echo |
 | **Payment Engineering** | Stripe (PaymentIntent / webhooks / credit notes) · PayPal · CCBill |
@@ -84,7 +85,7 @@ Senior Full Stack Engineer with **5+ years** of experience designing, building, 
 
 ---
 
-## Production SaaS
+## Featured Projects
 
 <table>
 <tr>
@@ -131,38 +132,38 @@ B2B platform for time tracking, activity monitoring, productivity analytics, and
 <tr>
 <td width="50%" valign="top">
 
-### [Stream-It](https://github.com/irfanf16/stream-it)
-**Live Streaming & Creator Monetization**
+### WorcX &nbsp;<sub>(private client work)</sub>
 
-Live streaming platform with a virtual token economy for creator monetization and private paid 1-on-1 sessions.
+**B2B SaaS for Tradespeople — Denmark**
+
+Solo freelance build: NestJS microservices backend with a Next.js 15 admin console.
 
 **Key engineering:**
-- Laravel 9 + Inertia.js + React 18
-- RTMP → HLS broadcast pipeline
-- Pusher real-time events (viewer count, tips, chat)
-- Token economy: 75/25 creator/platform split
-- Private paid 1-on-1 streaming sessions
-- 4 payment gateways: Stripe · PayPal · CCBill · Bank Transfer
-- 18+ age gate enforcement
-- 25+ database tables
+- NestJS (Nx monorepo) · HTTP API gateway
+- TCP microservices: authentication · cases · billing
+- Prisma + PostgreSQL · 75+ models
+- JWT access/refresh · RBAC · request throttling
+- Stripe billing + dedicated webhook service
+- Next.js 15 App Router admin (strict TS, TanStack Query)
+- i18next — Danish (default) + English
+- docker-compose orchestration
 
 </td>
 <td width="50%" valign="top">
 
-### [clipfetch](https://github.com/irfanf16/clipfetch)
-**Multi-Platform Video Downloader**
+### [BrightChef](https://github.com/irfanf16/BrightChef)
 
-Next.js 15 SaaS — raw HTTP calls to Supabase PostgREST and Upstash Redis, zero SDK bloat.
+**AI Recipe & Meal Planning API**
+
+Laravel + OpenAI recipe generation with an async queue pipeline.
 
 **Key engineering:**
-- Next.js 15.5 App Router · React 19 · TypeScript
-- Provider registry: RapidAPI → oEmbed → Mock
-- SSRF allowlist (8 CDN hosts) for URL proxy protection
-- Rate limiting: 40 req/hour per SHA-256 salted IP hash
-- 6 feature flags (DB-override + env vars)
-- HMAC session-based admin panel
-- Vercel cron cleanup daily at 03:00 UTC
-- 8 Supabase tables · 16 tool slugs
+- OpenAI completions with few-shot prompt engineering
+- laravel-actions pattern (controller + job + command)
+- Horizon + Redis queues — AI calls never block requests
+- Structured parsing of completions into recipes & meal plans
+- Full token-usage audit log (`open_ai_responses`)
+- ULID primary keys · Docker setup
 
 </td>
 </tr>
@@ -177,7 +178,8 @@ Next.js 15 SaaS — raw HTTP calls to Supabase PostgREST and Upstash Redis, zero
 | [toolifyhub-website](https://github.com/irfanf16/toolifyhub-website) | Next.js 15 · Groq · MongoDB | 39-tool AI SaaS — Llama 3.3 70B + Whisper, edge runtime, Stripe + PayPal |
 | [cloudTeleService](https://github.com/irfanf16/cloudTeleService) | Laravel 9 · Google Calendar API | Telehealth scheduling — full/incremental calendar sync, Google Meet auto-generation |
 | [ecommerence-api](https://github.com/irfanf16/ecommerence-api) | Laravel 8 · JWT · Pusher | Multi-vendor marketplace — 115+ tables, vendor KYC pipeline, commission system |
-| [BrightChef](https://github.com/irfanf16/BrightChef) | Laravel 9 · OpenAI · Horizon | AI recipe & meal planning — few-shot GPT-3, laravel-actions, Redis queue |
+| [stream-it](https://github.com/irfanf16/stream-it) | Laravel 9 · React · Pusher/Ably | Live streaming — RTMP→HLS pipeline, token economy, 4 payment gateways |
+| [clipfetch](https://github.com/irfanf16/clipfetch) | Next.js 15 · Supabase · Upstash | Video downloader — provider registry, SSRF-guarded proxy, rate limiting |
 | [translation-service](https://github.com/irfanf16/translation-service) | Laravel 12 · Sanctum · Docker | i18n microservice — locale export cache, tag taxonomy, OpenAPI spec |
 
 ---
