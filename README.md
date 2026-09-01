@@ -190,9 +190,6 @@ Laravel + OpenAI recipe generation with an async queue pipeline.
   <img src="https://streak-stats.demolab.com?user=irfanf16&theme=github-dark-blue&hide_border=true" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irfanf16&theme=github-compact&hide_border=true&area=true" width="95%" />
-</p>
 
 ---
 
