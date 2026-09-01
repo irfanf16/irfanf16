@@ -42,8 +42,8 @@ Senior Full Stack Engineer with **5+ years** of experience designing, building, 
 
 | Role | Company | Period |
 |---|---|---|
-| **Full Stack Developer** | Techscale — Lahore, Pakistan | May 2025 – Present |
-| **Full Stack Developer** | CrecenTech Systems — Lahore, Pakistan | Oct 2022 – May 2025 |
+| **Full Stack Developer** | [Techscale](https://custimoo.com) — Lahore, Pakistan | May 2025 – Present |
+| **Full Stack Developer** | [CrecenTech Systems](https://www.staffviz.com) — Lahore, Pakistan | Oct 2022 – May 2025 |
 | **Senior Laravel Developer** | Storak Digital — Remote | May 2022 – Oct 2022 |
 | **Junior Laravel Developer** | Software Alliance — Lahore, Pakistan | Aug 2021 – Jun 2022 |
 | **Web Developer** | Sigi Technologies — Part-time | Feb 2021 – Jun 2022 |
