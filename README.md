@@ -132,20 +132,20 @@ B2B platform for time tracking, activity monitoring, productivity analytics, and
 <tr>
 <td width="50%" valign="top">
 
-### WorcX &nbsp;<sub>(private client work)</sub>
+### [ToolifyHub](https://github.com/irfanf16/toolifyhub-showcase)
 
-**B2B SaaS for Tradespeople — Denmark**
+**39-Tool AI SaaS Platform**
 
-Solo freelance build: NestJS microservices backend with a Next.js 15 admin console.
+One platform hosting 39 separate utilities behind a single account, quota and billing system.
 
 **Key engineering:**
-- NestJS (Nx monorepo) · HTTP API gateway
-- TCP microservices: authentication · cases · billing
-- Prisma + PostgreSQL · 75+ models
-- JWT access/refresh · RBAC · request throttling
-- Stripe billing + dedicated webhook service
-- Next.js 15 App Router admin (strict TS, TanStack Query)
-- i18next — Danish (default) + English
+- Next.js 15 App Router · strict TypeScript · edge runtime
+- Groq inference — Llama 3.3 70B + Whisper
+- Self-registering tool model — each tool owns its schema and quota rule
+- ~25 Radix UI primitives — accessible components, full visual control
+- MongoDB with zstd compression · AWS S3 file handling
+- Stripe + PayPal dual payment gateways
+- React Hook Form + resolver-based schema validation
 - docker-compose orchestration
 
 </td>
@@ -175,7 +175,6 @@ Laravel + OpenAI recipe generation with an async queue pipeline.
 
 | Repo | Stack | What it does |
 |---|---|---|
-| [toolifyhub-website](https://github.com/irfanf16/toolifyhub-showcase) | Next.js 15 · Groq · MongoDB | 39-tool AI SaaS — Llama 3.3 70B + Whisper, edge runtime, Stripe + PayPal |
 | [cloudTeleService](https://github.com/irfanf16/cloudteleservice-showcase) | Laravel 9 · Google Calendar API | Telehealth scheduling — full/incremental calendar sync, Google Meet auto-generation |
 | [ecommerence-api](https://github.com/irfanf16/storak-showcase) | Laravel 8 · JWT · Pusher | Multi-vendor marketplace — 115+ tables, vendor KYC pipeline, commission system |
 | [stream-it](https://github.com/irfanf16/stream-it-showcase) | Laravel 9 · React · Pusher/Ably | Live streaming — RTMP→HLS pipeline, token economy, 4 payment gateways |
