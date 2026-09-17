@@ -92,7 +92,7 @@ Software Engineer with **5+ years** building production SaaS platforms end to en
 <td width="50%" valign="top">
 
 ### [Custimoo](https://custimoo.com)
-**Product Customization Platform**
+**Product Customization Platform** · [architecture writeup](https://github.com/irfanf16/custimoo-showcase)
 
 Multi-tenant SaaS for selling customized apparel and sportswear. Merchants embed a white-labeled 2D/3D product builder into their Shopify, WooCommerce, or BigCommerce stores.
 
@@ -111,7 +111,7 @@ Multi-tenant SaaS for selling customized apparel and sportswear. Merchants embed
 <td width="50%" valign="top">
 
 ### [StaffViz](https://www.staffviz.com)
-**Workforce Management SaaS**
+**Workforce Management SaaS** · [architecture writeup](https://github.com/irfanf16/staffviz-showcase)
 
 B2B platform for time tracking, activity monitoring, productivity analytics, and HR workflows across multiple companies.
 
@@ -151,7 +151,7 @@ Solo freelance build: NestJS microservices backend with a Next.js 15 admin conso
 </td>
 <td width="50%" valign="top">
 
-### [BrightChef](https://github.com/irfanf16/BrightChef)
+### [BrightChef](https://github.com/irfanf16/brightchef-showcase)
 
 **AI Recipe & Meal Planning API**
 
@@ -175,12 +175,12 @@ Laravel + OpenAI recipe generation with an async queue pipeline.
 
 | Repo | Stack | What it does |
 |---|---|---|
-| [toolifyhub-website](https://github.com/irfanf16/toolifyhub-website) | Next.js 15 · Groq · MongoDB | 39-tool AI SaaS — Llama 3.3 70B + Whisper, edge runtime, Stripe + PayPal |
-| [cloudTeleService](https://github.com/irfanf16/cloudTeleService) | Laravel 9 · Google Calendar API | Telehealth scheduling — full/incremental calendar sync, Google Meet auto-generation |
-| [ecommerence-api](https://github.com/irfanf16/ecommerence-api) | Laravel 8 · JWT · Pusher | Multi-vendor marketplace — 115+ tables, vendor KYC pipeline, commission system |
-| [stream-it](https://github.com/irfanf16/stream-it) | Laravel 9 · React · Pusher/Ably | Live streaming — RTMP→HLS pipeline, token economy, 4 payment gateways |
-| [clipfetch](https://github.com/irfanf16/clipfetch) | Next.js 15 · Supabase · Upstash | Video downloader — provider registry, SSRF-guarded proxy, rate limiting |
-| [translation-service](https://github.com/irfanf16/translation-service) | Laravel 12 · Sanctum · Docker | i18n microservice — locale export cache, tag taxonomy, OpenAPI spec |
+| [toolifyhub-website](https://github.com/irfanf16/toolifyhub-showcase) | Next.js 15 · Groq · MongoDB | 39-tool AI SaaS — Llama 3.3 70B + Whisper, edge runtime, Stripe + PayPal |
+| [cloudTeleService](https://github.com/irfanf16/cloudteleservice-showcase) | Laravel 9 · Google Calendar API | Telehealth scheduling — full/incremental calendar sync, Google Meet auto-generation |
+| [ecommerence-api](https://github.com/irfanf16/storak-showcase) | Laravel 8 · JWT · Pusher | Multi-vendor marketplace — 115+ tables, vendor KYC pipeline, commission system |
+| [stream-it](https://github.com/irfanf16/stream-it-showcase) | Laravel 9 · React · Pusher/Ably | Live streaming — RTMP→HLS pipeline, token economy, 4 payment gateways |
+| [clipfetch](https://github.com/irfanf16/clipfetch-showcase) | Next.js 15 · Supabase · Upstash | Video downloader — provider registry, SSRF-guarded proxy, rate limiting |
+| [translation-service](https://github.com/irfanf16/translation-service-showcase) | Laravel 12 · Sanctum · Docker | i18n microservice — locale export cache, tag taxonomy, OpenAPI spec |
 
 ---
 
